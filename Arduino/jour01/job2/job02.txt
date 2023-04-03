@@ -1,0 +1,16 @@
+﻿Job 2
+
+
+Pour calculer la résistance nécessaire pour obtenir un courant de 10 milliampères (mA) à travers la LED nous allons utiliser la loi d’Ohm : 
+
+
+Calcule de la tension aux bornes de la résistance : 5V - 2V = 3V
+
+
+Conversion du courant en Ampères : 10 mA = 0,01 A
+
+
+Utilisation de la loi d’Ohm : 3V / 0,01A = 300 ohms
+
+
+On aura donc besoin d’une résistance d’environ 300 ohms pour limiter le courant à travers la LED à 10 mA.
